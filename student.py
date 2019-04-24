@@ -14,7 +14,7 @@ class Student:
 	def greeting(self):
 		return "Hello {} you were born in {}".format(self.first_name,2019-self.age)
 
-    def initials(self):
-    	ints= self.first_name[0] + self.second_name[0]
-    	return ints
+        def initials(self):
+    	        ints= self.first_name[0] + self.second_name[0]
+    	        return ints
 	
